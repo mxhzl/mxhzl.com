@@ -1,8 +1,25 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1 class="title">
-  This is my blog made with Zola.
-</h1>
-<p><a href="{{ get_url(path='@/blog/_index.md') }}">Posts</a>.</p>
+
+<h1 class="title">Welcome to my blog!</h1>
+
+<p>I hope you enjoy your time here!</p>
+
+{% set section = get_section(path="posts/_index.md") %}
+{% if section.pages | length > 0 %}
+<div id="recentpostlistdiv">
+    <h2>Recent Posts:</h2>
+    <ul>
+        {% for page in section.pages %}
+        {% if loop.index == config.extra.recent_posts_cutoff + 1 %}{% break %}{% endif %}
+        <li><a href="{{ page.permalink | safe }}">{{page.date}} » {{page.title}}</a></li>
+        {% endfor %}
+        {% if section.pages | length > config.extra.recent_posts_cutoff %}
+        <li class="moreposts"><a href={{ get_url(path='@/posts/_index.md') | safe }}>» more posts</a></li>
+        {% endif %}
+    </ul>
+</div>
+{% endif %}
+
 {% endblock content %}
