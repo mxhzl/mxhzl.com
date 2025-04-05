@@ -3,7 +3,7 @@ base_url = "https://mxhzl.com"
 
 # The site title and description
 title = "mxhzl.com"
-description = "A Website"
+description = "Maxine's Website"
 author = "Maxine"
 
 # The default language; used in feeds.
@@ -26,5 +26,5 @@ build_search_index = false
 highlight_code = true
 
 [extra]
-author_link = ""
+author_link = "mailto:maxine@mxhzl.com"
 recent_posts_cutoff = 3

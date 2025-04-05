@@ -25,6 +25,8 @@
             <h1 class="title">Welcome to my blog!</h1>
             
             <p>I hope you enjoy your time here!</p>
+
+            <p>This website is, as you can see, under construction. Please be patient with me.</p>
             
             {% set section = get_section(path="posts/_index.md") %}
             {% if section.pages | length > 0 %}
@@ -49,6 +51,5 @@
         <hr><p>{{ config.title }} is written by <a href="{{ config.extra.author_link | safe }}">{{ config.author }}</a>, built with <a href="https://www.getzola.org/">Zola</a> and <a href='https://zonelets.net/'>Zonelets</a>, and hosted by <a href='https://neocities.org/'>Neocities!</a></p>
       </div>
     </div>
-  <script src="{{ get_url(path="script.js") | safe }}"></script>
   </body>
 </html>
