@@ -15,7 +15,7 @@ I don't really know why, but I feel compelled to keep a public tracker of my tas
 - [ ] Put something on the home page
 - [ ] Scrap my neovim setup and start from scratch.
 - [ ] Im torn on this, but I'd like a way to deploy this site from another machine (GitHub actions?)
-- [x] Set up and try out [linkding](https://github.com/sissbruecker/linkding)
+- [x] ~Set up and try out [linkding](https://github.com/sissbruecker/linkding)~
 - [x] ~Finish this todo page~
 
 </div>
