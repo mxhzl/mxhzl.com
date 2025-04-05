@@ -26,5 +26,6 @@ build_search_index = false
 highlight_code = true
 
 [extra]
-author_link = "mailto:maxine@mxhzl.com"
+author_link = "https://github.com/mxhzl"
+contact_link = "mailto:maxine@mxhzl.com"
 recent_posts_cutoff = 3

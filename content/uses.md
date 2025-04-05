@@ -2,11 +2,11 @@
 title = "Uses"
 +++
 
-In no particular order, a list of things I use.
+In no particular order, a list of things I use:
 
 I built this website (and am typing this currently) on a midnight, 13-inch, M3, 2024 MacBook Air.
 
-Although most of the time I end up using the PC I built myself (note: list out the specs of the PC), but doing any kind of coding on Windows is a nightmare from which I would never wake.
+Although most of the time I end up using the PC I built myself ([parts list](/pc.html)), but doing any kind of coding on Windows is a nightmare from which I would never wake.
 
 I code using [VSCodium](https://github.com/VSCodium/vscodium) (you can ready why [here](https://vscodium.com/#why)) or [neovim](https://neovim.io/) depending on the context and my mood. I usually play around with configuring neovim but then give up and use VSCodium because its what I am use to.
 
