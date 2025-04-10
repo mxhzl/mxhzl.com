@@ -2,7 +2,7 @@
 base_url = "https://mxhzl.com"
 
 # The site title and description
-title = "Maxine dot com"
+title = "TODO: Write Title"
 description = "Maxine's Website"
 author = "Maxine"
 
@@ -27,5 +27,4 @@ highlight_code = true
 
 [extra]
 author_link = "https://github.com/mxhzl"
-contact_link = "mailto:maxine@mxhzl.com"
 recent_posts_cutoff = 3
