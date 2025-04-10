@@ -2,33 +2,33 @@
 
 echo
 echo "### checking dependencies ###"
-echo 
+echo
 
 # Make sure that dependencies are installed
-if ! type neocities > /dev/null; then
+if ! type neocities >/dev/null; then
   echo "neocities cli is not installed, please install."
   echo "exiting..."
   exit 1
 fi
 
-if ! type zola > /dev/null; then
+if ! type zola >/dev/null; then
   echo "zola is not installed, please install."
   echo "exiting..."
   exit 1
 fi
 
-if ! type yarn > /dev/null; then
+if ! type yarn >/dev/null; then
   echo "yarn is not installed, please install."
   echo "exiting..."
   exit 1
 fi
 
 echo "### all good, starting deploy ###"
-echo 
+echo
 
 # Install yarn packages (just prettier)
 echo "### running yarn install ###"
-echo 
+echo
 
 yarn install
 echo
@@ -40,7 +40,7 @@ echo
 zola build
 echo
 
-cd public/
+cd public/ || exit 1
 
 echo "### running yarn exec -- prettier . --write ###"
 echo
@@ -50,23 +50,23 @@ yarn exec -- prettier . --write
 echo
 
 # Do a dry run to make sure everything looks right
-echo "### running neocities push --dry-run . ###"
+echo "### running neocities push --prune --dry-run . ###"
 echo
 
-neocities push --dry-run .
+neocities push --prune --dry-run .
 
 # Ask user for confirmation on above plan the do deploy
 echo
 read -p "does that look good? (Y/n) " -n 1 -r
 echo
-if [[ $REPLY =~ ^[Yy]$ ]]
-then
-    echo "### running neocities push . ###"
-    neocities push .
-    echo "site deployed"
-    echo "https://mxhzl.com"
-    echo
+if [[ $REPLY =~ ^[Yy]$ ]]; then
+  echo "### running neocities push --prune . ###"
+  neocities push --prune .
+  echo "site deployed"
+  echo "https://mxhzl.com"
+  echo
 fi
 
 echo "exiting..."
 exit 0
+
