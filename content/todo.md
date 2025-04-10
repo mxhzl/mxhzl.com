@@ -7,9 +7,11 @@ I don't really know why, but I feel compelled to keep a public tracker of my tas
 <div id="todolist">
 
 - [ ] Finish the [about](@/about.md) page
-- [ ] Write some posts so I have actual content.
+- [ ] Write post about successful Fly.io deployments (linkding)
+- [ ] Write post about unsuccessful Fly.io deployments (forgejo)
 - [ ] Put something on the home page
 - [ ] Scrap my neovim setup and start from scratch.
+- [ ] Try deploying a pure git server to fly.io (and then maybe forgejo again)
 - [x] ~Finish this todo page~
 - [x] ~Set up and try out [linkding](https://github.com/sissbruecker/linkding)~
 - [x] ~Add a [\/now](https://nownownow.com/about) page~
@@ -17,5 +19,7 @@ I don't really know why, but I feel compelled to keep a public tracker of my tas
 - [x] ~I'd like a way to deploy this site from another machine, like a github action or something~ (I ended up writing a [script](https://github.com/mxhzl/mxhzl.com/blob/main/deploy.sh) but may revisit this in the future).
 - [x] ~Finish writing my resume~
 - [x] ~then either upload it here or recreate it in html~
+- [x] ~Write some posts so I have actual content.~
+- [x] ~Write post about NixOs testing~
 
 </div>
