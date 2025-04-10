@@ -140,6 +140,17 @@ h1, h2, h3, h4, h5 {
 
 /* HERE IS THE STYLING THAT I, MAXINE, AM ADDING */
 
+/* Remove the bullet points from the todolist page. It looks weird with the checkboxes */
 #todolist ul {
   list-style-type: none;
+}
+
+/*  Stolen from how GitHub styles code elements */
+/* TODO: Make this look better. I don't love this but its better than the default. */
+code {
+  padding: .2em .4em;
+  margin: 0;
+  font-size: 15px;
+  white-space: break-spaces;
+  background-color:  rgba(101, 108, 118, 0.2);
 }
