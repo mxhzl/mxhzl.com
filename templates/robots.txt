@@ -3,6 +3,7 @@
 # This is the default rule, which allows search engines to crawl your site (recommended).
 # Editors Note: *sign* I can always reverse this later
 User-agent: *
+Disallow /resume
 Allow: /
 
 # Disallow AI bots from crawling site
