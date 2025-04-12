@@ -1,0 +1,4 @@
+[tools]
+"gem:neocities" = "latest"
+node = "latest"
+"npm:yarn" = "latest"
