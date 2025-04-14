@@ -1,0 +1,14 @@
+Inbox:
+mxhzl.com:
+  Content:
+	- finish the about page @na
+	- Write post about successfully deploying linkding to fly @na
+	- Put something on the home page @na
+	- Write post about deploying forgejo to fly and failing @na
+Archive:
+	- finish todo list page @na @done(2025-04-14 19:48)
+Search Definitions:
+	Top Priority @search(@priority = 5 and not @done)
+	High Priority @search(@priority > 3 and not @done)
+	Maybe @search(@maybe)
+	Next @search(@na and not @done and not project = "Archive")
