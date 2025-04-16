@@ -1,5 +1,14 @@
 #!/usr/bin/env bash
 
+# I've run into situations before where I try to deploy before pulling main from remote
+# so I would like to do something more robust than just pulling before deploying but
+# for now this will suffice
+echo
+echo "### pulling most recent changes ###"
+echo
+
+git pull origin main 
+
 echo
 echo "### checking dependencies ###"
 echo
