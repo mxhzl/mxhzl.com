@@ -1,11 +1,10 @@
 Inbox:
 mxhzl.com:
   Content:
+	- write post about deploying to do using terraform and ansible @na
 	- Create a projects page for current or future code projects @na
 	- finish the about page @na
-	- Write post about successfully deploying linkding to fly @na
 	- Put something on the home page @na
-	- Write post about deploying forgejo to fly and failing @na
   Features:
 	- write wrapper around neocities api that does more complex diffing between files @na
 	- add a more robust check for git changes on remote to deploy script @na
