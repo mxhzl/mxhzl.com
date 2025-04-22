@@ -14,7 +14,7 @@ Adding new posts is very easy! Just add a markdown file to `content/posts`. Make
 
 ### Adding pages
 
-Adding new pages is, shockingly, very easy! Just add a markdown file to `content`. All you need is the `title` variable. If you want the new page in the header nav, add it in [index.html](https://github.com/mxhzl/mxhzl.com/blob/main/templates/index.html).
+Adding new pages is, shockingly, very easy! Just add a markdown file to `content`. All you need is the `title` variable. If you want the new page in the header nav, add it in [index.html](https://git.mxhzl.com/mxhzl/mxhzl.com/src/branch/main/templates/index.html).
 
 ### Testing and Deploying
 

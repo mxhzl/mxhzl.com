@@ -14,6 +14,6 @@ Despite the many alternatives, I still use [iTerm2](https://iterm2.com/).
 
 I write in several different programming languages depending on context and need, but right now, I prefer [Rust](https://www.rust-lang.org/) (fun fact this site was made with a static site generator written in Rust).
 
-If you are interested, my dotfiles live in this [repo](https://github.com/mxhzl/dotfiles).
+If you are interested, my dotfiles live in this [repo](https://git.mxhzl.com/mxhzl/dotfiles).
 
-On my GitHub profile are any other projects I feel comfortable sharing as well as the source code for this [site](https://github.com/mxhzl/mxhzl.com).
+I host most of my code projects (including this website) on my private [forgejo](https://forgejo.org/) instance at [git.mxhzl.com](https://git.mxhzl.com)

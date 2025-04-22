@@ -8,7 +8,7 @@ title = "Now"
 
 **current location**: Philadelphia, PA
 
-**current project**: This [website](https://github.com/mxhzl/mxhzl.com)!
+**current project**: This [website](https://git.mxhzl.com/mxhzl/mxhzl.com)!
 
 #### Now Playing (game): Pokemon Fire Red
 

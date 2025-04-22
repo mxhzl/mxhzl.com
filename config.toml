@@ -26,5 +26,5 @@ build_search_index = false
 highlight_code = true
 
 [extra]
-author_link = "https://github.com/mxhzl"
+author_link = "https://git.mxhzl.com/mxhzl"
 recent_posts_cutoff = 3

@@ -3,7 +3,7 @@ title = "A Brief Nix Experiment"
 date = 2025-04-09
 +++
 
-TL;DR I tried out running NixOs on my mac laptop using VMWare Fusion. It was fun but ultimately I don't think I will use it full time to program. My config can be found [here](https://github.com/mxhzl/nixos-config).
+TL;DR I tried out running NixOs on my mac laptop using VMWare Fusion. It was fun but ultimately I don't think I will use it full time to program. My config can be found [here](https://git.mxhzl.com/mxhzl/nixos-config).
 
 Every now and then, I get the urge to install Linux on something.
 
@@ -15,7 +15,7 @@ Funnily enough it involved the same channel that created that Arch installation 
 
 I've been hearing about Nix (technically the Nix package manager and NixOS _are_ separate things but for the sake of clarity I will refer to everything in the Nix ecosystem as just Nix) on and off for a while here and there. But [this video](https://youtu.be/Z8BL8mdzWHI) on using Nix as a package manager on macOS piqued my interest. I use macs at work and I have a personal laptop that I [use](@/uses.md) for any personal coding I do so I so was interested in seeing a potential replacement for the dominant package manage on mac, [Homebrew](https://brew.sh/).
 
-So I watched the video and perused the code examples they link to, and I was unconvinced. It seemed liked there weren't a lot of packages supported in the `aarch64` Nix repos, so most of the things I want would be installed through Homebrew using a plugin that hooked it up with Nix and that plugin just creates a Brewfile, which I already [use](https://github.com/mxhzl/dotfiles_local/blob/mac/Brewfile). So it seemed like it would be a lot more work for the exact same outcome.
+So I watched the video and perused the code examples they link to, and I was unconvinced. It seemed liked there weren't a lot of packages supported in the `aarch64` Nix repos, so most of the things I want would be installed through Homebrew using a plugin that hooked it up with Nix and that plugin just creates a Brewfile, which I already [use](https://git.mxhzl.com/mxhzl/dotfiles/src/branch/main/Brewfile). So it seemed like it would be a lot more work for the exact same outcome.
 
 For example, the tool version manager I use [mise](https://mise.jdx.dev/) has an officially supported Homebrew [formula](https://formulae.brew.sh/formula/mise) that includes the most recent release, `2025.4.1`. In contrast, the community maintained [Nix package](https://github.com/NixOS/nixpkgs/blob/nixos-24.11/pkgs/by-name/mi/mise/package.nix) only supports version `2024.10.8`. Which is, obviously, not the most recent version. Its a small thing, but personally I like to install tools in the officially supported way whenever I can. Its nice to know that I can just run `brew bundle upgrade` and get the most recent versions of my packages (the `unstable` branch of nixpkgs does have a slightly newer version of mise, but I think my point stands).
 
@@ -33,7 +33,7 @@ Once I actually downloaded the dang app, the process of getting it set up with N
 
 After a couple of hours of work, I had a functional NixOS virtual machine running on my mac. It was fun! However, running the VM for even a little bit brutally murdered my battery. Your mileage will certainly vary, and maybe the battery would last longer on a MacBook Pro or desktop, but my poor Air struggled.
 
-While the setup process was enjoyable and I am definitely interested in learning more about Nix, I don't think I will be switching to NixOS for coding full-time. I might play around with it more, but right now developing with native mac tools is good enough. It would take a not-insignificant amount of time to convert my current [dotfiles](https://github.com/mxhzl/dotfiles) to be entirely contained in my NixOS config and I don't know that the time and effort would be worth it. I might do it anyway because I don't value my time.
+While the setup process was enjoyable and I am definitely interested in learning more about Nix, I don't think I will be switching to NixOS for coding full-time. I might play around with it more, but right now developing with native mac tools is good enough. It would take a not-insignificant amount of time to convert my current [dotfiles](https://git.mxhzl.com/mxhzl/dotfiles) to be entirely contained in my NixOS config and I don't know that the time and effort would be worth it. I might do it anyway because I don't value my time.
 
 ***
 
