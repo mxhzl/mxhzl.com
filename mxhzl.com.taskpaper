@@ -6,6 +6,7 @@ mxhzl.com:
 	- finish the about page @na
 	- Put something on the home page @na
   Features:
+	- find another html linter so I can get rid of node dependency @na
 	- write wrapper around neocities api that does more complex diffing between files @na
 	- add a more robust check for git changes on remote to deploy script @na
 Archive:
