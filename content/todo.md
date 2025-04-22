@@ -6,7 +6,6 @@ I don't really know why, but I feel compelled to keep a public tracker of my tas
 
 <div id="todolist">
 
-- [ ] Try deploying a pure git server to fly.io (and then maybe forgejo again)
 - [x] ~Finish this todo page~
 - [x] ~Set up and try out [linkding](https://github.com/sissbruecker/linkding)~
 - [x] ~Add a [\/now](https://nownownow.com/about) page~
