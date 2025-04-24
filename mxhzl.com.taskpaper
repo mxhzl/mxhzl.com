@@ -4,6 +4,7 @@ mxhzl.com:
 	- write post about deploying to do using terraform and ansible @na
 	- Put something on the home page @na
   Features:
+	- host my resume better @na
 	- find another html linter so I can get rid of node dependency @na
 	- write wrapper around neocities api that does more complex diffing between files @na
 	- add a more robust check for git changes on remote to deploy script @na
