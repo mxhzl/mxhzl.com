@@ -2,6 +2,8 @@
 title = "Resume"
 +++
 
+download [pdf](/MK_Resume.pdf)
+
 ### Experience
 
 #### ActBlue
@@ -40,7 +42,7 @@ Chicago, IL
 | ---------------| ------------------------------------------- |
 | Languages      | Ruby, Rust, Go, Python, a tiny bit of C/C++ |
 | Databases      | PostgreSQL, Elasticsearch                   |
-| Tools          | Git, Vim, RSpec, Puppet, Terraform, Docker  |
+| Tools          | Git, Vim, RSpec, Ansible, Terraform, Docker |
 | Infrastructure | Linux, Kubernetes, AWS                      |
 | Software       | GitHub, Confluence, Jira, Datadog, CircleCI |
 

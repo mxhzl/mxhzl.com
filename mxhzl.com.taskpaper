@@ -2,14 +2,14 @@ Inbox:
 mxhzl.com:
   Content:
 	- write post about deploying to do using terraform and ansible @na
-	- Create a projects page for current or future code projects @na
-	- finish the about page @na
 	- Put something on the home page @na
   Features:
 	- find another html linter so I can get rid of node dependency @na
 	- write wrapper around neocities api that does more complex diffing between files @na
 	- add a more robust check for git changes on remote to deploy script @na
 Archive:
+	- finish the about page @na @done(2025-04-23 19:56)
+	- Create a projects page for current or future code projects @na @done(2025-04-23 19:56)
 	- finish todo list page @na @done(2025-04-14 19:48)
 Search Definitions:
 	Top Priority @search(@priority = 5 and not @done)
