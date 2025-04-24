@@ -2,7 +2,7 @@
 title = "Resume"
 +++
 
-download [pdf](/MK_Resume.pdf)
+[download pdf](/resume.pdf)
 
 ### Experience
 
