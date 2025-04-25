@@ -1,4 +1,4 @@
-all: deploy-dry clean
+all: deploy-dry
 
 serve:
 	zola serve --drafts --open
