@@ -20,6 +20,6 @@ Adding new pages is, shockingly, very easy! Just add a markdown file to `content
 
 Because SSGs are great, you can test the site locally by running `zola serve`. Then when you are ready to deploy, just run `zola build` and deploy the contents of the `public` directory to your site host of choice.
 
-If you are using [neocities](https://neocities.org) as your host (which I am) you can run `./deploy.sh` and the script will build the site, run `prettier` to format the html, and then upload the contents of the `public` folder to your site.
+If you are using [neocities](https://neocities.org) as your host (which I am) you can run `make deploy` and the script will build the site, run `prettier` to format the html, and then upload the contents of the `public` folder to your site.
 
 Thanks for visiting!
