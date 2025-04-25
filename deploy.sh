@@ -14,23 +14,13 @@ echo "### checking dependencies ###"
 echo
 
 # Make sure that dependencies are installed
-if ! type neocities >/dev/null; then
-  echo "neocities cli is not installed, please install."
+if ! type mise >/dev/null; then
+  echo "install is not installed, please install."
   echo "exiting..."
   exit 1
 fi
 
-if ! type zola >/dev/null; then
-  echo "zola is not installed, please install."
-  echo "exiting..."
-  exit 1
-fi
-
-if ! type yarn >/dev/null; then
-  echo "yarn is not installed, please install."
-  echo "exiting..."
-  exit 1
-fi
+mise install
 
 echo "### all good, starting deploy ###"
 echo

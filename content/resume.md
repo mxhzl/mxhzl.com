@@ -7,6 +7,7 @@ title = "Resume"
 ### Experience
 
 #### ActBlue
+
 August 2022 - Present  
 Software Engineer  
 remote
@@ -17,9 +18,10 @@ remote
 - Collaborated with database admins to tune SQL query performance.
 
 #### Procore Technologies
+
 August 2018 - August 2022  
 Software Engineer  
-Carpinteria, CA  
+Carpinteria, CA
 
 - Developed software libraries for and indexing and searching data in Rails.
 - Built out AWS infrastructure for customer-facing apps and internal tooling.
@@ -28,9 +30,10 @@ Carpinteria, CA
 - Primary maintainer for [nox](https://www.github.com/procore/nox), an open source CLI for Elasticsearch operations.
 
 #### Bowfin Consulting
+
 February 2015 - July 2018  
 Software Developer  
-Chicago, IL  
+Chicago, IL
 
 - Developed enterprise web applications for clients using Ruby on Rails, PHP, Java.
 - Managed infrastructure for client projects using Linux servers and Heroku.
@@ -39,7 +42,7 @@ Chicago, IL
 ### Skills
 
 |                |                                             |
-| ---------------| ------------------------------------------- |
+| -------------- | ------------------------------------------- |
 | Languages      | Ruby, Rust, Go, Python, a tiny bit of C/C++ |
 | Databases      | PostgreSQL, Elasticsearch                   |
 | Tools          | Git, Vim, RSpec, Ansible, Terraform, Docker |
@@ -47,10 +50,10 @@ Chicago, IL
 | Software       | GitHub, Confluence, Jira, Datadog, CircleCI |
 
 ### Education
-	
+
 DePaul University  
-July 2016   
-B.S. in Computer Science  
+July 2016  
+B.S. in Computer Science
 
 ### Ask Me About
 

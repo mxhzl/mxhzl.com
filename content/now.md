@@ -16,7 +16,7 @@ Despite my ever growing backlog of contemporary games (I will get to you one day
 
 #### Now Playing (music): [softscars](https://music.apple.com/us/album/softscars/1692344143) by yeule
 
-This is a little out of my wheelhouse (I am also very excited for the new PUP album coming out soon) but yeule hits the same part of my brain that Grimes did many years ago before she sold out a bit. I found yeule through the [soundtrack to I Saw the TV Glow](https://en.wikipedia.org/wiki/I_Saw_the_TV_Glow_(soundtrack)) (a movie I desperately want to watch but am very afraid to) and their cover of the Broken Social Scene classic "Anthems for a Seventeen Year-Old Girl". My favorite songs off softscars right now are "ghosts" and "dazies", optimally back to back.
+This is a little out of my wheelhouse (I am also very excited for the new PUP album coming out soon) but yeule hits the same part of my brain that Grimes did many years ago before she sold out a bit. I found yeule through the [soundtrack to I Saw the TV Glow](<https://en.wikipedia.org/wiki/I_Saw_the_TV_Glow_(soundtrack)>) (a movie I desperately want to watch but am very afraid to) and their cover of the Broken Social Scene classic "Anthems for a Seventeen Year-Old Girl". My favorite songs off softscars right now are "ghosts" and "dazies", optimally back to back.
 
 Honorable mention to [Confessions of a Rotten Girl / ft. Hatsune Miku](https://youtu.be/sV2H712ldOI) by SAWTOWNE on YouTube, an insane mashup of things that make my brain very happy.
 

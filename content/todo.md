@@ -11,7 +11,6 @@ I don't really know why, but I feel compelled to keep a public tracker of my tas
 - [ ] Figure out my task management system even if I have to make one myself.
 - [ ] Firefox extension that allows me to add all open tabs to linkding
 
-
 <details>
 <summary>To-done</summary>
 

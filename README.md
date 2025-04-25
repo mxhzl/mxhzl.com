@@ -22,4 +22,4 @@ Because SSGs are great, you can test the site locally by running `zola serve`. T
 
 If you are using [neocities](https://neocities.org) as your host (which I am) you can run `./deploy.sh` and the script will build the site, run `prettier` to format the html, and then upload the contents of the `public` folder to your site.
 
-Thanks for visiting! 
+Thanks for visiting!

@@ -35,6 +35,6 @@ After a couple of hours of work, I had a functional NixOS virtual machine runnin
 
 While the setup process was enjoyable and I am definitely interested in learning more about Nix, I don't think I will be switching to NixOS for coding full-time. I might play around with it more, but right now developing with native mac tools is good enough. It would take a not-insignificant amount of time to convert my current [dotfiles](https://git.mxhzl.com/mxhzl/dotfiles) to be entirely contained in my NixOS config and I don't know that the time and effort would be worth it. I might do it anyway because I don't value my time.
 
-***
+---
 
 If you got this far, thanks for reading! This is the first post on my new website. I don't really think I have much to say that would be interesting to anyone else, but I am committed to building and maintaining this site. I've had a few websites over the years but I think here I have a good setup. Its easy create new content since all the pages and posts are in Markdown files, and the html templates require minimal CSS and no javascript. The result is a static pure html site that is easy to host and has low environmental impact. If you are interested in seeing what I am up to now, you can check out my [now](@/now.md) and [todo](@/todo.md) pages. Thanks again! Max~
