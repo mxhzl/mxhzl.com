@@ -6,7 +6,7 @@ Its very simple I think. It uses a combination of the [Zola](https://www.getzola
 
 The only real work I did was to adapt the zonelets template to work with Zola.
 
-If you like the way it looks, all credit goes to Marina Kittaka, the creator of Zonelets. If you like the way it functions, all credit goes to Vincent Prouillet, the creator of Zola. Much gratitude to them both!
+If you like the way it looks, all credit goes to [Marina Kittaka](https://bsky.app/profile/even-kei.bsky.social), the creator of Zonelets. If you like the way it functions, all credit goes to [Vincent Prouillet](https://www.vincentprouillet.com/), the creator of Zola. Much gratitude to them both!
 
 ### Adding posts
 
