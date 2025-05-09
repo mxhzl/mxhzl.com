@@ -3,7 +3,7 @@ title = "A Brief Nix Experiment"
 date = 2025-04-09
 +++
 
-TL;DR I tried out running NixOs on my mac laptop using VMWare Fusion. It was fun but ultimately I don't think I will use it full time to program. My config can be found [here](https://git.mxhzl.com/mxhzl/nixos-config).
+TL;DR I tried out running NixOs on my mac laptop using VMWare Fusion. It was fun but ultimately I don't think I will use it full time to program. My config can be found [here](https://github.com/mxhzl/nixos-config).
 
 Every now and then, I get the urge to install Linux on something.
 
