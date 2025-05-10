@@ -8,7 +8,6 @@ I don't really know why, but I feel compelled to keep a public tracker of my tas
 
 - [ ] CBT thought log web app
 - [ ] Re-write ikukani
-- [ ] Figure out my task management system even if I have to make one myself.
 - [ ] Firefox extension that allows me to add all open tabs to linkding
 
 <details>
@@ -25,9 +24,8 @@ I don't really know why, but I feel compelled to keep a public tracker of my tas
 - [x] Write post about NixOs testing
 - [x] Scrap my neovim setup and start from scratch. (I tried this and it was overwhelming)
 - [x] Play around with deploying linkding and forgejo to digitalocean (located at [git.mxhzl.com](https://git.mxhzl.com) and [links.mxhzl.com](https://links.mxhzl.com/))
+- [x] Figure out my task management system even if I have to make one myself. (I just went with [taskpaper](https://www.taskpaper.com/))
 
 </details>
 
 </div>
-
-For some of my code repos, I will sometimes check in a `.taskpaper` file that contains my to do list for that project specifically. If you are sneaky you can find them on my git hosting places.

@@ -1,5 +1,6 @@
 [tools]
-"gem:neocities" = "latest"
-node = "latest"
-"npm:yarn" = "latest"
 zola = "latest"
+
+[env]
+USER = "maxine"
+HOST = "104.248.109.91"
