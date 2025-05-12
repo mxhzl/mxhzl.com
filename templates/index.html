@@ -4,10 +4,13 @@
     <title>{% block title %}{{ config.title }}{% endblock title %}</title>
     <meta name="author" content="{{ config.author }}">
     <meta name="description" content="{{ config.description }}">
-    <link rel="icon" href="{{ get_url(path="images/favicon.png") }}" type="image/x-icon"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8"> 
+
+    <link rel="icon" href="{{ get_url(path="images/favicon.png") }}" type="image/x-icon"/>
     <link href="{{ get_url(path="style/hikingShoes.css") | safe }}" rel="stylesheet" type="text/css" media="all">    
+
+    <link rel="preconnect" href="https://files.catbox.moe" />
   </head>
   <body>
     <div id="container">
