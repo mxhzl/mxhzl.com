@@ -1,0 +1,20 @@
+{% extends "index.html" %}
+
+{% block title %}{{ section.title }}{% endblock title %}
+
+{% block content %}
+<h1 class="title">
+  {{ section.title }}
+</h1>
+
+<p>This is a collection of all my previous <a href={{ get_url(path='@/now.md') | safe }}>now</a> pages! Enjoy!</p>
+
+<div id="postlistdiv">
+  <ul>
+    {% for page in section.pages %}
+    <li><a href="{{ page.permalink | safe }}">{{page.date}}</a></li>
+    {% endfor %}
+  </ul>  
+</div>
+
+{% endblock content %}
