@@ -4,7 +4,7 @@ title = "About"
 
 [she/her](https://pronouns.mxhzl.com/she/her/her/hers/herself)
 
-Hi! My name is Maxine and I am a computer programmer with an interest in web apps, systems, and infrastructure management (which is a fancy way of saying I like to build Linux servers and then tear them down again).
+Hi! My name is maxine and I am a computer programmer with an interest in web apps, systems, and infrastructure management (which is a fancy way of saying I like to build Linux servers and then tear them down again).
 
 This website is still relatively new, but I am hoping to make it my home on the internet. I will probably write about tech stuff when I have something interesting to say, but also about other nerd things when I feel like it. Don't expect any consistency from me here.
 

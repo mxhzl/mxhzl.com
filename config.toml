@@ -3,8 +3,8 @@ base_url = "https://mxhzl.com"
 
 # The site title and description
 title = "mxhzl.com"
-description = "Maxine's Website"
-author = "Maxine"
+description = "maxine's Website"
+author = "maxine"
 
 # The default language; used in feeds.
 default_language = "en"
