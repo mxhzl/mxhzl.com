@@ -13,4 +13,4 @@ This is ridiculous. We should standardize these things and/or all use the metric
 
 More info on the [wikipedia page](https://en.wikipedia.org/wiki/Long_and_short_scales).
 
-![chaos](https://files.catbox.moe/g2e65f.png "a breakdown of the naming of powers of ten by short or long scale")
+![chaos](/images/posts/wat.png "a breakdown of the naming of powers of ten by short or long scale")
